@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arupa444.
+- 👋 Hi, I’m @arupa444 AKA Arupa Nanda Swain.
 - 👀 I’m interested in learning things.
 - 🌱 I’m currently learning the skills that you can share or contribute to my page!!
 - 💞️ I’m looking to collaborate on everything (not specific) so i can learn diverse
