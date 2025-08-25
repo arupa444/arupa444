@@ -17,7 +17,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 ## 🌟 Featured Projects
 
-### 🧠🌟 AI-Powered Automation & Agents
+### 🤖 AI-Powered Automation & Agents
 - **[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
   A FastAPI automation agent for managing and enriching journal articles, leveraging Google Gemini, Groq’s LLaMA, and more.
 
