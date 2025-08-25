@@ -17,6 +17,14 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 ## 🌟 Featured Projects
 
+### 🧠🌟 AI-Powered Automation & Agents
+- **[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
+  A FastAPI automation agent for managing and enriching journal articles, leveraging Google Gemini, Groq’s LLaMA, and more.
+
+- **[career-pilot-ai](https://github.com/arupa444/career-pilot-ai)**  
+  A smart assistant that finds relevant jobs, crafts tailored cover letters and resumes, applies on your behalf, and even helps you prepare for interviews.
+
+
 ### 🧠 AI & Computer Vision
 - [**OCR-Using-YOLO**](https://github.com/arupa444/OCR-Using-YOLO) – Object detection & OCR pipeline with YOLO  
 - [**objectDetectionMultipleImg**](https://github.com/arupa444/objectDetectionMultipleImg) – Run YOLO detection on multiple images  
