@@ -12,7 +12,7 @@
 
 <!-- Welcome words -->
 <h1 style="color: #FFC0CB;">Welcome to Arupa's GitHub 🤧</h1>
-</div>
+
 
 
 🚀 **AI Developer | Software Engineer | Research Enthusiast**  
@@ -96,3 +96,4 @@ I call myself a **jumping spider** 🕷️ — always leaping from one field to 
 <!--
 ✨ This repository is special because its `README.md` appears on your GitHub profile.  
 -->
+</div>
