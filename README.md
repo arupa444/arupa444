@@ -1,3 +1,20 @@
+<div align="center">
+
+  <!-- Knock Code Pictures -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty -->
+  <div>&nbsp;</div>
+
+<!-- Welcome words -->
+<h1 style="color: #FFC0CB;">Welcome to Arupa's GitHub ! 💞️</h1>
+</div>
+
+
 # 👋 Hey, I’m Arupa Nanda Swain (@arupa444)
 
 🚀 **AI Developer | Software Engineer | Research Enthusiast**  
