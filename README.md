@@ -53,8 +53,10 @@ Curiosity drives me to explore everything: whether it’s training deep learning
   Real-time object detection with YOLO + webcam  
 
 ### 💬 Chatbots & AI Agents
-[**Mini-Chatbot**](https://github.com/arupa444/Mini-Chatbot) – Rule-based + Llama-powered chatbot  
-[**AI Agent for Delivery**](https://github.com/arupa444/Delivery-AI-Agent) – Smart assistant to guide delivery agents  
+[**Mini-Chatbot**](https://github.com/arupa444/Mini-Chatbot)  
+  Rule-based + Llama-powered chatbot  
+[**AI Agent for Delivery**](https://github.com/arupa444/Delivery-AI-Agent)  
+  Smart assistant to guide delivery agents  
 
 ### 📊 AI Utilities
 [**shapeAndSize**](https://github.com/arupa444/shapeAndSize) – Python library for plotting & calculating geometry properties  
