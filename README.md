@@ -30,7 +30,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 ---
 
-## 🌟 Featured Projects
+<h1>🌟 Featured Projects</h1>
 
 ## 🤖 AI-Powered Automation & Agents
 **[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
