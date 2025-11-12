@@ -17,8 +17,10 @@
 
 🚀 **AI Developer | Software Engineer | Research Enthusiast**  
 
-I specialize in **Artificial Intelligence** and love building projects that connect AI with the real world — from **computer vision** to **chatbots**, **blockchain**, and **robotics**.  
-Curiosity drives me to explore everything: whether it’s training deep learning models, writing efficient C code for research, or building smart contracts.
+Computer Science graduate with expertise in full-stack development, machine learning, and algorithm optimization.
+Demonstrated expertise in developing scalable web applications and conducting innovative research in sparse matrix
+optimization, achieving 30-50% memory reduction and 10x performance improvements. Skilled in Go, Python, JavaScript,
+C/C++, and modern ML frameworks including TensorFlow, PyTorch, and LangChain
 
 ---
 
