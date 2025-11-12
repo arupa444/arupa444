@@ -41,7 +41,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 
 ### 🧠 AI & Computer Vision
-**[OCR-Using-YOLO](https://github.com/arupa444/OCR-Using-YOLO)**
+**[OCR-Using-YOLO](https://github.com/arupa444/OCR-Using-YOLO)**  
   Object detection & OCR pipeline with YOLO
 
   
