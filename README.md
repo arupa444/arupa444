@@ -11,7 +11,7 @@
   <div>&nbsp;</div>
 
 <!-- Welcome words -->
-<h1 style="color: #FFC0CB;">Welcome to Arupa's GitHub ! 👀</h1>
+<h1 style="color: #FFC0CB;">Welcome to Arupa's GitHub 🤧</h1>
 </div>
 
 
