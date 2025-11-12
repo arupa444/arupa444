@@ -48,22 +48,18 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 **[objectDetectionMultipleImg](https://github.com/arupa444/objectDetectionMultipleImg)**  
   Run YOLO detection on multiple images  
   
-##
-  
 **[useCamToFind](https://github.com/arupa444/useCamToFind)**  
   Real-time object detection with YOLO + webcam  
-
-### 💬 Chatbots & AI Agents
+  
+##
+## 💬 Chatbots & AI Agents
 [**Mini-Chatbot**](https://github.com/arupa444/Mini-Chatbot)  
   Rule-based + Llama-powered chatbot  
   
 [**AI Agent for Delivery**](https://github.com/arupa444/Delivery-AI-Agent)  
   Smart assistant to guide delivery agents  
-
-## 📊 AI Utilities
-[**shapeAndSize**](https://github.com/arupa444/shapeAndSize)  
-  Python library for plotting & calculating geometry properties  
-
+  
+##
 ## 🌐 Web Development
 [**The Little Journal**](https://the-little-journal.com/Masthead)  
   Full-stack journal website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
@@ -76,7 +72,8 @@ Curiosity drives me to explore everything: whether it’s training deep learning
   
 [**Doctor Appointment System**](https://github.com/arupa444/Doctor-Appointment)  
   Online doctor appointment booking  
-
+  
+##
 ## 🔗 Blockchain
 [**P2P Energy Trading Smart Contract**](https://github.com/arupa444/P2P-Energy-Trading)  
   Decentralized marketplace for energy exchange (Solidity + Web3)  
