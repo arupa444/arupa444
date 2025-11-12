@@ -32,7 +32,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 ## 🌟 Featured Projects
 
-### 🤖 AI-Powered Automation & Agents
+## 🤖 AI-Powered Automation & Agents
 **[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
   A FastAPI automation agent for managing and enriching journal articles, leveraging Google Gemini, Groq’s LLaMA, and more.
 
@@ -40,7 +40,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
   A smart assistant that finds relevant jobs, crafts tailored cover letters and resumes, applies on your behalf, and even helps you prepare for interviews.
 
 
-### 🧠 AI & Computer Vision
+## 🧠 AI & Computer Vision
 **[OCR-Using-YOLO](https://github.com/arupa444/OCR-Using-YOLO)**  
   Object detection & OCR pipeline with YOLO
 
@@ -59,11 +59,11 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 [**AI Agent for Delivery**](https://github.com/arupa444/Delivery-AI-Agent)  
   Smart assistant to guide delivery agents  
 
-### 📊 AI Utilities
+## 📊 AI Utilities
 [**shapeAndSize**](https://github.com/arupa444/shapeAndSize)  
   Python library for plotting & calculating geometry properties  
 
-### 🌐 Web Development
+## 🌐 Web Development
 [**The Little Journal**](https://the-little-journal.com/Masthead)  
   Full-stack journal website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
   
@@ -76,7 +76,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 [**Doctor Appointment System**](https://github.com/arupa444/Doctor-Appointment)  
   Online doctor appointment booking  
 
-### 🔗 Blockchain
+## 🔗 Blockchain
 [**P2P Energy Trading Smart Contract**](https://github.com/arupa444/P2P-Energy-Trading)  
   Decentralized marketplace for energy exchange (Solidity + Web3)  
 
