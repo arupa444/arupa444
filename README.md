@@ -23,20 +23,20 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 ---
 
 ## 🔭 What I’m Working On
-- 🤖 AI Projects: YOLO-based object detection, custom Python AI libraries, chatbot development  
-- 🌐 Web Development: AI-powered web apps, responsive UIs with Flask & Bootstrap  
-- ⚡ Blockchain: Peer-to-Peer Energy Trading Smart Contract (Solidity + Web3)  
-- 🔌 Robotics: Humanoid robot project (Arduino + actuators + sensors)  
+🤖 AI Projects: YOLO-based object detection, custom Python AI libraries, chatbot development  
+🌐 Web Development: AI-powered web apps, responsive UIs with Flask & Bootstrap  
+⚡ Blockchain: Peer-to-Peer Energy Trading Smart Contract (Solidity + Web3)  
+🔌 Robotics: Humanoid robot project (Arduino + actuators + sensors)  
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🤖 AI-Powered Automation & Agents
-- **[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
+**[FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System](https://github.com/arupa444/FastAPI-Journal-Automation-with-Generative-And-AI-Compound-AI-System)**  
   A FastAPI automation agent for managing and enriching journal articles, leveraging Google Gemini, Groq’s LLaMA, and more.
 
-- **[career-pilot-ai](https://github.com/arupa444/career-pilot-ai)**  
+**[career-pilot-ai](https://github.com/arupa444/career-pilot-ai)**  
   A smart assistant that finds relevant jobs, crafts tailored cover letters and resumes, applies on your behalf, and even helps you prepare for interviews.
 
 
