@@ -55,6 +55,7 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 ### 💬 Chatbots & AI Agents
 [**Mini-Chatbot**](https://github.com/arupa444/Mini-Chatbot)  
   Rule-based + Llama-powered chatbot  
+  
 [**AI Agent for Delivery**](https://github.com/arupa444/Delivery-AI-Agent)  
   Smart assistant to guide delivery agents  
 
@@ -65,10 +66,13 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 ### 🌐 Web Development
 [**The Little Journal**](https://the-little-journal.com/Masthead)  
   Full-stack journal website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
+  
 [**Lusabuy**](https://github.com/arupa444/lusabuy)  
   Full-stack fashion/E-Commerce website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
+  
 [**Restaurant Ordering System**](https://github.com/arupa444/Restaurant-Food-Ordering)  
   Full-stack food ordering website (HTML, CSS, PHP, SQL)  
+  
 [**Doctor Appointment System**](https://github.com/arupa444/Doctor-Appointment)  
   Online doctor appointment booking  
 
