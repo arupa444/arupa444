@@ -41,9 +41,12 @@ Curiosity drives me to explore everything: whether it’s training deep learning
 
 
 ### 🧠 AI & Computer Vision
-[**OCR-Using-YOLO**](https://github.com/arupa444/OCR-Using-YOLO) -  Object detection & OCR pipeline with YOLO  
-[**objectDetectionMultipleImg**](https://github.com/arupa444/objectDetectionMultipleImg) -  Run YOLO detection on multiple images  
-[**useCamToFind**](https://github.com/arupa444/useCamToFind) -  Real-time object detection with YOLO + webcam  
+[**OCR-Using-YOLO**](https://github.com/arupa444/OCR-Using-YOLO)
+Object detection & OCR pipeline with YOLO  
+[**objectDetectionMultipleImg**](https://github.com/arupa444/objectDetectionMultipleImg)
+Run YOLO detection on multiple images  
+[**useCamToFind**](https://github.com/arupa444/useCamToFind)
+Real-time object detection with YOLO + webcam  
 
 ### 💬 Chatbots & AI Agents
 [**Mini-Chatbot**](https://github.com/arupa444/Mini-Chatbot) – Rule-based + Llama-powered chatbot  
