@@ -59,16 +59,22 @@ Curiosity drives me to explore everything: whether it’s training deep learning
   Smart assistant to guide delivery agents  
 
 ### 📊 AI Utilities
-[**shapeAndSize**](https://github.com/arupa444/shapeAndSize) – Python library for plotting & calculating geometry properties  
+[**shapeAndSize**](https://github.com/arupa444/shapeAndSize)  
+  Python library for plotting & calculating geometry properties  
 
 ### 🌐 Web Development
-[**The Little Journal**](https://the-little-journal.com/Masthead) – Full-stack journal website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
-[**Lusabuy**](https://github.com/arupa444/lusabuy) – Full-stack fashion/E-Commerce website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
-[**Restaurant Ordering System**](https://github.com/arupa444/Restaurant-Food-Ordering) – Full-stack food ordering website (HTML, CSS, PHP, SQL)  
-[**Doctor Appointment System**](https://github.com/arupa444/Doctor-Appointment) – Online doctor appointment booking  
+[**The Little Journal**](https://the-little-journal.com/Masthead)  
+  Full-stack journal website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
+[**Lusabuy**](https://github.com/arupa444/lusabuy)  
+  Full-stack fashion/E-Commerce website (Flask, Jinja, Bootstrap, API, Python, Javascript, CSS, HTML5)
+[**Restaurant Ordering System**](https://github.com/arupa444/Restaurant-Food-Ordering)  
+  Full-stack food ordering website (HTML, CSS, PHP, SQL)  
+[**Doctor Appointment System**](https://github.com/arupa444/Doctor-Appointment)  
+  Online doctor appointment booking  
 
 ### 🔗 Blockchain
-[**P2P Energy Trading Smart Contract**](https://github.com/arupa444/P2P-Energy-Trading) – Decentralized marketplace for energy exchange (Solidity + Web3)  
+[**P2P Energy Trading Smart Contract**](https://github.com/arupa444/P2P-Energy-Trading)  
+  Decentralized marketplace for energy exchange (Solidity + Web3)  
 
 ---
 
