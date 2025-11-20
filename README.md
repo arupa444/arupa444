@@ -112,6 +112,10 @@ I call myself a **jumping spider** 🕷️ — always leaping from one field to 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arupa444&layout=compact&theme=radical)
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arupa444&theme=radical&cache_seconds=3600" alt="GitHub Streak" />
+</p>
+
 <!--
 ✨ This repository is special because its `README.md` appears on your GitHub profile.  
 -->
